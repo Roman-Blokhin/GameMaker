@@ -1,0 +1,1 @@
+sprite_index = Sprt_button_play
