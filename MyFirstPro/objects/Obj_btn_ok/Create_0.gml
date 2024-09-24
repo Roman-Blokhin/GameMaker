@@ -1,4 +1,4 @@
-global.money = 0
 global.ok = 1
+global.money = 0
 
 image_speed = 0
